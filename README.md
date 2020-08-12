@@ -1,6 +1,6 @@
 # Data
 
-Images are part of the [International Skin Imaging Collaboration (ISIC)](https://www.isic-archive.com/#!/onlyHeaderTop/gallery) Dataset. The pictures show benign and malignant skin cancer.
+The Images in the folder /data/ are part of the [International Skin Imaging Collaboration (ISIC)](https://www.isic-archive.com/#!/onlyHeaderTop/gallery) Dataset. Each picture shows benign or malignant skin cancer.
 
 # Labels
 

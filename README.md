@@ -5,3 +5,7 @@ The images in the folder `/data/` are part of the [International Skin Imaging Co
 # Labels
 
 metadata.csv contains labels for training.
+
+# Notebook
+
+Notebook `notebook.ipynb` contains example code for implementing a ResNet-50 model (fast.ai) with the corresponding data in this repository.
